@@ -8,8 +8,6 @@ While the Colorado Blockchain community already has many of these services suffi
 The Stack's goal is to provide a bootstrapped platform for decentralized collaboration by mode of gamified participation, catalyzing adoption in an accessible, transparent, and entertaining fashion.
 
 ## The Stack
-
-Includes everything you need to self-host your organization's open source collaboration:  
 * Private Network Node with Customized Aragon  
 * Choice of NextCloud/Sandstorm  
 * Choice of Matrix/Rocket.chat  
