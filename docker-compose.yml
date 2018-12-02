@@ -1,5 +1,9 @@
 version: '2'
 
+volumes:
+  nextcloud:
+  nextcloud-db:
+
 services:
   rocketchat:
     image: rocketchat/rocket.chat:latest
@@ -63,9 +67,6 @@ services:
       - 3001:8080
 
   synapse:
-    build:
-        context: ../..
-        dockerfile: docker/Dockerfile
     image: docker.io/matrixdotorg/synapse:latest
     # Since synapse does not retry to connect to the database, restart upon
     # failure
@@ -107,6 +108,37 @@ services:
       - ./schemas:/var/lib/postgresql/data
       # .. or store them on some high performance storage for better results
       # - /path/to/ssd/storage:/var/lib/postgresql/data
+
+  nextcloud-db:
+    image: mariadb
+    restart: always
+    volumes:
+      - nextcloud-db:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=changeme
+      - MYSQL_PASSWORD=changeme
+      - MYSQL_DATABASE=nextcloud
+      - MYSQL_USER=nextcloud
+
+  nextcloud-app:
+    image: nextcloud:fpm
+    links:
+      - nextcloud-db
+    volumes:
+      - nextcloud:/var/www/html
+    restart: always
+
+  nextcloud-web:
+    image: nginx
+    ports:
+      - 8080:80
+    links:
+      - nextcloud-app
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    volumes_from:
+      - nextcloud-app
+    restart: always
 
   #traefik:
   #  image: traefik:latest
