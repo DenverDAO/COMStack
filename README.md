@@ -12,5 +12,6 @@ The Stack's goal is to provide a bootstrapped platform for decentralized collabo
 * Choice of NextCloud/Sandstorm  
 * Choice of Matrix/Rocket.chat  
 * Discourse
+* WordPress
 
 _**Disclaimer**_: The node in the Stack utilizes a private Ethereum network for performance and cost purposes. As a consequence, the network functions more as a siloed simulation than "real world" application. Someday, in the not too far future, it will be possible to deploy interoperable DAO sidechains on Cosmos. For one's own DAO, in the meantime, make it real by deploying to the Ethereum mainnet!
