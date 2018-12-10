@@ -4,7 +4,7 @@ Everything you need to self-host your open source **D**ecentralized **A**utonomo
 ## Goal
 To provide a bootstrapped platform for decentralized collaboration - catalyzing adoption in an accessible, transparent, and entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
 
-Within minutes your organization will be hosting its own open source:
+Within minutes your collaborative will be hosting its own open source:
 * Website
 * Chat
 * Forum
@@ -13,7 +13,7 @@ Within minutes your organization will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-All tied around an incentivized meritocratic governance: as participants earn reputation (brownie points), that in turn is the participants' weight (stake) when it comes time to vote on decisions pertaining to the organization.
+All tied around an incentivized meritocratic governance: as participants earn reputation (brownie points), that in turn is the participants' weight (stake) when it comes time to vote on decisions pertaining to the collaborative.
 
 [See some of the proposed meritocracy apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Meritocracy-Apps)
 
