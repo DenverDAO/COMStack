@@ -1,5 +1,5 @@
 # DACStack
-Everything you need to self-host your decentralized autonomous collaboration!
+Everything you need to self-host your **D**ecentralized **A**utonomous **C**ollaboration!
 
 ## Inspiration
 
