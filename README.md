@@ -13,7 +13,7 @@ Within minutes your organization will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-All tied around meritocratic governance, earning reputation (stake) as one participates in the collaborating.
+All tied around meritocratic governance: earning reputation (stake) as one participates in the collaborating which applies to said participant's weight in the decision making of the organtization.
 
 [See some of the proposed meritocracy apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Meritocracy-Apps)
 
