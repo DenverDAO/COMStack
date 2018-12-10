@@ -8,11 +8,12 @@ Within minutes your organization will be hosting its own open source:
 * Website
 * Chat
 * Forum
-* DevOps
-* Cloud Storage and Collaboration
+* DevOps and Code Versioning
+* Cloud Storage
+* Collaborative Documents
 * Project Management
 
-All tied around meritocratic governance, earning or losing reputation as you participate in the collaborating!
+All tied around meritocratic governance, earning reputation (stake) as one participates in the collaborating!
 
 ## The Stack
 * Private Network Node  
