@@ -4,7 +4,15 @@ Everything you need to self-host your **D**ecentralized **A**utonomous **C**olla
 ## Goal
 To provide a bootstrapped platform for decentralized collaboration - catalyzing adoption in an accessible, transparent, and entertaining fashion by mode of gamified participation utilizing tasks and reputation.  
 
-Within minutes your organization will be hosting its own open source: website, chat, forum, cloud storage, and meritocratic governance!
+Within minutes your organization will be hosting its own open source:
+* Website
+* Chat
+* Forum
+* DevOps
+* Cloud Storage and Collaboration
+* Project Management
+
+All tied around meritocratic governance, earning or losing reputation as you participate in the collaborating!
 
 ## The Stack
 * Private Network Node  
