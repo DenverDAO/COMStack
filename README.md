@@ -6,7 +6,6 @@ To provide a bootstrapped platform for decentralized collaboration - catalyzing 
 
 ## The Stack
 * Private Network Node  
-* ... and a choice of many public nodes  
 * Aragon w/ Colony Reputation App  
 * Choice of NextCloud/Sandstorm  
 * Choice of Matrix/Rocket.chat  
