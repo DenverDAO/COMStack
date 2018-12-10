@@ -18,7 +18,7 @@ All tied around an incentivized meritocratic governance: earning reputation (bro
 [See some of the proposed meritocracy apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Meritocracy-Apps)
 
 ## The Stack
-* PoA DenverDAO Network Node  
+* DenverDAO PoA Network Node  
 * Aragon w/ Colony Reputation App  
 * Choice of NextCloud/Sandstorm  
 * Choice of Matrix/Rocket.chat  
