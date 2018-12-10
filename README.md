@@ -13,7 +13,7 @@ Within minutes your collaborative will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-All tied around an incentivized meritocratic governance: as participants earn reputation (brownie points), that in turn is the participants' weight (stake) when it comes time to vote on decisions pertaining to the collaborative.
+All tied into an incentivized meritocratic governance: as participants earn reputation (brownie points) by completing tasks, that in turn is the participants' weight (stake) when it comes time to vote on decisions pertaining to the collaborative.
 
 [See some of the proposed meritocracy apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Meritocracy-Apps)
 
