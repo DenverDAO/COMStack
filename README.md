@@ -1,10 +1,10 @@
 # DACStack
-A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollaborative!  
+A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollective!  
 
 ## Goal:
 To provide a bootstrapped platform for transparent, incentivized collaboration - thus catalyzing adoption in an entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
 
-Within minutes your collaborative will be hosting its own open source:
+Within minutes your Collective will be hosting its own open source:
 * Website
 * Chat
 * Forum
@@ -17,7 +17,7 @@ Within minutes your collaborative will be hosting its own open source:
 
 ### Brownie Points
 
-To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that, when it comes time to vote on decisions pertaining to the collaborative, represents their weighted voting stake. The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous.
+To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that, when it comes time to vote on decisions pertaining to the Collective, represents their weighted voting stake. The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous.
 
 [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
 
