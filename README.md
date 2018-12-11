@@ -2,9 +2,9 @@
 A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollective!  
 
 ## Goal:
-To provide a bootstrapped platform for transparent, incentivized collaboration - thus catalyzing adoption in an entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
+To provide a bootstrapped platform for transparent, incentivized collaboration - thus catalyzing adoption in an entertaining and accessible fashion by mode of gamified participation - especially utilizing tasks and reputation.  
 
-Within minutes your Collective will be hosting its own open source:
+Get to the bells and whistles you say? Within **minutes** your Collective will be hosting its own open source:
 * Website
 * Chat
 * Forum
@@ -13,11 +13,13 @@ Within minutes your Collective will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-... culminating into bottomless potential of meritocratic governance! What does that even _mean_ though, and how? Read on to get a taste...
+... culminating into overflowing potential for meritocratic governance! What does that even _mean_ though, and how? Read on to get a taste...
 
 ### Brownie Points
 
-To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that, when it comes time to vote on decisions pertaining to the Collective, represents their weighted voting stake. The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous.
+To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that - when it comes time to vote on decisions pertaining to the Collective - represents their weighted voting stake.  
+
+The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous.
 
 [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
 
