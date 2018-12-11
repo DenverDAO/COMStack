@@ -1,5 +1,5 @@
 # DACStack
-A one-liner Docker deployment of everything you need to self-host an open source **D**istributed **A**utonomous **C**ollaborative!  
+A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollaborative!  
 
 ## Goal:
 To provide a bootstrapped platform for transparent, incentivized collaboration - thus catalyzing adoption in an entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
