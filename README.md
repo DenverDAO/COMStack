@@ -15,9 +15,11 @@ Within minutes your collaborative will be hosting its own open source:
 
 ... all feeding into an incentivized meritocratic governance.  
 
-As participants cooperate to complete tasks, they programmatically earn reputation points that in turn represent their weight/stake when it comes time to vote on decisions pertaining to the collaborative. A participant's reputation decays over time if a they no longer remain active.
+### Brownie Points
 
-[See some of the future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
+As participants cooperate to complete tasks, they can assign each other points that in turn represent their weight/stake when it comes time to vote on decisions pertaining to the collaborative. Conversely, a participant's stake decays over time if they no longer remain active. A long term roadmap of the project entails developing integrations between all of the Stack's components to seemlessly and autonomously assign these reputational _brownie points_.
+
+[See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
 
 ## The Stack
 * DenverDAO PoA Network Node  
