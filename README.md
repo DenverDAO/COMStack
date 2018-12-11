@@ -1,8 +1,8 @@
 # DACStack
-Everything you need to self-host your open source **D**ecentralized **A**utonomous **C**ollaboration!  
+A one-liner Docker deployment of everything you need to self-host your open source **D**ecentralized **A**utonomous **C**ollaboration!  
 
-## Goal
-To provide a bootstrapped platform for decentralized collaboration - catalyzing adoption in an accessible, transparent, and entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
+## Goal:
+To provide a bootstrapped platform for transparent, incentivized collaboration - thus catalyzing adoption in an entertaining fashion by mode of gamified participation - utilizing tasks and reputation.  
 
 Within minutes your collaborative will be hosting its own open source:
 * Website
@@ -13,11 +13,11 @@ Within minutes your collaborative will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-... all feeding into an incentivized meritocratic governance.  
+... culminating into meritocratic governance! What does that even _mean_ though? Read on to get a taste...
 
 ### Brownie Points
 
-As participants cooperate to complete tasks, they can assign each other points that in turn represent their weight/stake when it comes time to vote on decisions pertaining to the collaborative. Conversely, a participant's stake decays over time if they no longer remain active. A long term roadmap of the project entails developing integrations between all of the Stack's components to seemlessly and autonomously assign these reputational _brownie points_.
+To get things rolling, as participants cooperate to complete tasks, they can assign each other _brownie points_ that in turn represents their stake when it comes time to vote on decisions pertaining to the collaborative. A long term roadmap of the project entails developing integrations between all of the Stack's components to seemlessly assign or remove these reputational _brownie points_, relieving the responsibility from the participants and thus incrementally becoming more autonomous.
 
 [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
 
