@@ -13,7 +13,7 @@ Within minutes your Collective will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-... culminating into meritocratic governance! What does that even _mean_ though? Read on to get a taste...
+... culminating into bottomless potential of meritocratic governance! What does that even _mean_ though, and how? Read on to get a taste...
 
 ### Brownie Points
 
