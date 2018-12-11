@@ -21,7 +21,7 @@ To get things rolling: as participants cooperate to complete tasks they can assi
 
 In addition to the built in reputation system, the Stack is (by design) highly extendable and is encouraged to be augmented to mission specific requirements. [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)  
 
-The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous. Also, in parallel development, the [DACStack CLI](https://github.com/DenverDAO/dacstack-cli) will eventually allow for a user-friendly and modular on-boarding experience where one can pick and choose their setup.
+The roadmap that follows entails developing integrations between the Stack's components to seemlessly assign or burn these reputational _brownie points_, relieving the responsibility from the participants while incrementally allowing the system to become more autonomous. Also, in parallel development, the [DACStack CLI](https://github.com/DenverDAO/dacstack-cli) will allow for a user-friendly and modular on-boarding experience where one can pick and choose their setup.
 
 ## The Stack
 * DenverDAO PoA Network Node  
