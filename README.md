@@ -13,13 +13,15 @@ Within minutes your collaborative will be hosting its own open source:
 * Collaborative Documents
 * Project Management
 
-All tied into an incentivized meritocratic governance: as participants earn reputation (brownie points) by completing tasks, that in turn is the participants' weight (stake) when it comes time to vote on decisions pertaining to the collaborative.
+... all feeding into an incentivized meritocratic governance.  
 
-[See some of the proposed meritocracy apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Meritocracy-Apps)
+As participants cooperate to complete tasks, they programmatically earn reputation points that in turn represent their weight/stake when it comes time to vote on decisions pertaining to the collaborative. A participant's reputation decays over time if a they no longer remain active.
+
+[See some of the future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)
 
 ## The Stack
 * DenverDAO PoA Network Node  
-* [Aragon](https://aragon.org/) w/ [Colony](https://colony.io/) Reputation App  
+* [Aragon](https://aragon.org/) w/ [Colony](https://colony.io/) Reputation Apps  
 * Choice of [NextCloud](https://nextcloud.com/)/[Sandstorm](https://sandstorm.io/)  
 * Choice of [Matrix](https://matrix.org/blog/home/)/[Rocket.Chat](https://rocket.chat/)  
 * Choice of [Drupal](https://www.drupal.org/)/[WordPress](https://wordpress.org/)  
