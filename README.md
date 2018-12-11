@@ -2,7 +2,7 @@
 A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollective!  
 
 ## Goal:
-To provide a bootstrapped platform for transparent, incentivized collaboration while catalyzing adoption in an entertaining and accessible fashion by mode of gamified participation - especially utilizing tasks and reputation.  
+To provide a bootstrapped platform for transparent, incentivized collaboration that catalyzes adoption in an entertaining and accessible fashion by mode of gamified participation - especially utilizing tasks and reputation.  
 
 Get to the bells and whistles you say? Within **minutes** your Collective will be hosting its own open source:
 * Website
