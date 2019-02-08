@@ -6,7 +6,7 @@ To provide a bootstrapped platform for transparent, incentivized collaboration t
 
 Get to the bells and whistles you say? Within **minutes** your community will be hosting its own open source:
 * DenverDAO PoA network node ([Aragon](https://aragon.org/) governance w/ [Colony](https://colony.io/) reputation apps)  
-* Website ([WordPress](https://wordpress.org/))  
+* Website (Choice of [Ghost](https://ghost.org/) or [WordPress](https://wordpress.org/))  
 * Chat (Choice of/bridged [Matrix](https://matrix.org/blog/home/)/[Rocket.Chat](https://rocket.chat/))  
 * Forum ([Discourse](https://www.discourse.org/))  
 * DevOps and Code Versioning ([GitLab](https://about.gitlab.com/))  
