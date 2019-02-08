@@ -4,7 +4,7 @@ A one-liner Docker deployment for everything you need to self-host an open sourc
 ## Goal:
 To provide a bootstrapped platform for transparent, incentivized collaboration that catalyzes adoption in an entertaining and accessible fashion by mode of gamified participation - focusing on tasks, skills, and reputation.  
 
-Get to the bells and whistles you say? Within **minutes** your Collective will be hosting its own open source:
+Get to the bells and whistles you say? Within **minutes** your community will be hosting its own open source:
 * DenverDAO PoA network node ([Aragon](https://aragon.org/) governance w/ [Colony](https://colony.io/) reputation apps)  
 * Website ([WordPress](https://wordpress.org/))  
 * Chat (Choice of/bridged [Matrix](https://matrix.org/blog/home/)/[Rocket.Chat](https://rocket.chat/))  
@@ -17,7 +17,7 @@ Get to the bells and whistles you say? Within **minutes** your Collective will b
 
 ### Brownie Points
 
-To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that - when it comes time to vote on decisions pertaining to the Collective - represents their weighted voting stake.  
+To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that - when it comes time to vote on decisions pertaining to the community - represents their weighted voting stake.  
 
 In addition to the built in reputation system, the Stack is (by design) highly extendable and is encouraged to be augmented to mission specific requirements. [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/DACStack/wiki/Proposed-Reputation-Apps)  
 
