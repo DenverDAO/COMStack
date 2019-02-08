@@ -1,6 +1,9 @@
 # COMStack
 A one-liner Docker deployment for everything you need to self-host an open source **C**ommunications, **O**rganizing, and **M**eritocracy stack!  
 
+## Usage:
+`Not Ready!`
+
 ## Goal:
 To provide a bootstrapped platform for transparent, incentivized collaboration that catalyzes adoption in an entertaining and accessible fashion by mode of gamified participation - focusing on tasks, skills, and reputation.  
 
