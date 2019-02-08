@@ -1,5 +1,5 @@
-# DACStack
-A one-liner Docker deployment for everything you need to self-host an open source **D**istributed **A**utonomous **C**ollective!  
+# COMStack
+A one-liner Docker deployment for everything you need to self-host an open source **C**ommunications, **O**rganizing, and **M**eritocracy stack!  
 
 ## Goal:
 To provide a bootstrapped platform for transparent, incentivized collaboration that catalyzes adoption in an entertaining and accessible fashion by mode of gamified participation - focusing on tasks, skills, and reputation.  
