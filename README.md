@@ -26,7 +26,11 @@ Get to the bells and whistles you say? Within **minutes** your community will be
 
 To get things rolling: as participants cooperate to complete tasks they can assign each other _brownie points_ that - when it comes time to vote on decisions pertaining to the community - represents their weighted voting stake.  
 
-The roadmap that follows entails developing extensions and integrations between the Stack's components to autonomously assign or burn these reputational _brownie points_ (à la machine learning perhaps?), relieving the responsibility from the participants while incrementally allowing the system to become more self-sustained. Also, in parallel development, the [COMStack CLI](https://github.com/DenverDAO/comstack-cli) will allow for a user-friendly and modular on-boarding experience where one can pick and choose their community's setup.  
+The roadmap that follows entails developing extensions and integrations between the Stack's components to autonomously assign or burn these reputational _brownie points_ (à la machine learning perhaps?), relieving the responsibility from the participants while incrementally allowing the system to become more self-sustained.
+
+## [COMStack CLI](https://github.com/DenverDAO/comstack-cli)
+
+This will allow for a user-friendly and modular on-boarding experience where one can pick and choose their community's setup.  
 
 In addition to the built in reputation system, the Stack is (by design) highly extendable and is encouraged to be augmented to mission specific requirements. [See some proposed near-future reputation apps here!](https://github.com/DenverDAO/COMStack/wiki/Proposed-Reputation-Apps)  
 
